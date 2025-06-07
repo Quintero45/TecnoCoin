@@ -26,7 +26,7 @@
 
 El contrato fue desplegado exitosamente en la red **Avalanche Fuji**.  
 Puedes encontrar el contrato en Snowtrace:  
-`[Pega aquí la dirección del contrato]`
+`0xb0cbe4ef8248656ffd1dd7dbd1ba4c77064c569a`
 
 ## 🧠 Caso de uso
 
