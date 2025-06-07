@@ -43,10 +43,6 @@ TecnoCoin está diseñado para funcionar como moneda digital interna dentro de u
    - `maxSupply`: 10000
 6. ¡Listo! Interactúa con `mint()`, `burn()` y `balanceOf()` desde Remix.
 
-## 📷 Capturas
-
-Ve a la carpeta [`/screenshots`](./screenshots) para ver imágenes del proceso de despliegue y pruebas.
-
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT.  
@@ -54,5 +50,4 @@ Puedes usarlo con fines educativos o como base para proyectos reales.
 
 ---
 
-📍 **Desarrollado por:** [Tu nombre]  
-🎓 Fundación Universitaria Tecnológico Comfenalco
+📍 **Desarrollado por:** Miller Quintero Rodelo (DevQuin)
