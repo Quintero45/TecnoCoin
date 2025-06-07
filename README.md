@@ -1,4 +1,8 @@
-# TecnoCoin (TNC) 🪙
+<p align="center">
+  <img src="./Simbolo.svg" alt="TecnoCoin Logo" width="150"/>
+</p>
+
+<h1 align="center">TecnoCoin</h1>
 
 **TecnoCoin** es un token ERC-20 construido con Solidity y OpenZeppelin, diseñado como una moneda digital para uso universitario. Fue creado como parte de una actividad académica relacionada con contratos inteligentes y blockchain.
 
